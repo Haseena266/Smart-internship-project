@@ -72,8 +72,3 @@ This project uses **transfer learning** with pre-trained deep learning models (l
 - **College**: Seshadri Rao Gudlavalleru Engineering College  
 - **Mentor**: Dr. Shaik Salma Begum
 
----
-
-## 📬 Contact
-
-For queries or support, contact via SmartInternz portal or team GitHub.
